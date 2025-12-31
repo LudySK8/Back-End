@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module primeiroprojetoemjava1 {
-}
